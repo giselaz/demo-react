@@ -1,0 +1,8 @@
+{
+  "_version": "1.49.0",
+  "sap.app": {
+    "id": "catalog",
+    "type": "application",
+    "applicationVersion": { "version": "1.0.0" }
+  }
+}
